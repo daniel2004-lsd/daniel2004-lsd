@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudiante de Análisis y Desarrollo de Software (SENA) <br>
-💻 Enfocado en Backend y Arquitectura Limpia <br>
+💻 Backend Developer | Arquitectura Limpia <br>
 🚀 Apasionado por la Programación Orientada a Objetos
 </p>
 
@@ -17,16 +17,20 @@ Me caracterizo por estructurar soluciones escalables, limpias y defendibles ante
 
 ## 🛠 Competencias Técnicas
 
-### Lenguajes de Programación
-- ☕ **Java**
-- 💙 **C#**
-- 🐘 **PHP**
-- 🗄 **SQL**
+### Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
 ### Frameworks & Herramientas
-- **Laravel** | **ASP.NET Core** | **Entity Framework**  
-- **PostgreSQL** | **MariaDB**  
-- **Git & GitHub** | **Visual Studio 2022** | **VS Code**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=nuget&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -49,13 +53,9 @@ Me caracterizo por estructurar soluciones escalables, limpias y defendibles ante
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📈 Actividad Reciente
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel2004-lsd&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2004-lsd&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel2004-lsd&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniel2004-lsd&theme=tokyo-night)
 
 ---
 
@@ -72,3 +72,12 @@ Convertirme en **Desarrollador Backend profesional**, especializado en:
 
 📧 **danielsalazarvargas953@gmail.com**  
 📍 **Colombia**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daniel2004-lsd&style=flat-square&color=blue" alt="Profile views"/>
+  <a href="https://github.com/daniel2004-lsd?tab=followers">
+    <img src="https://img.shields.io/github/followers/daniel2004-lsd?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
