@@ -8,80 +8,67 @@
 
 ---
 
-## 🧠 Sobre mí
+## 🧑‍💻 Perfil Profesional
 
-Soy desarrollador en formación con fuerte enfoque en:
-
-- Programación Orientada a Objetos (POO)
-- Arquitectura en N Capas
-- Principios SOLID
-- Patrón Abstract Factory
-- Diseño de Bases de Datos (Modelo Entidad-Relación)
-
-Me gusta estructurar proyectos correctamente y aplicar buenas prácticas desde el inicio.
+Soy desarrollador en formación con enfoque en **Backend y Arquitectura de Software**, aplicando principios sólidos y buenas prácticas desde el inicio de cada proyecto.  
+Me caracterizo por estructurar soluciones escalables, limpias y defendibles ante auditorías técnicas o académicas.
 
 ---
 
-## 🛠 Tecnologías
+## 🛠 Competencias Técnicas
 
-### 💻 Lenguajes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+### Lenguajes de Programación
+- ☕ **Java**
+- 💙 **C#**
+- 🐘 **PHP**
+- 🗄 **SQL**
 
-### 🚀 Frameworks & Herramientas
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+### Frameworks & Herramientas
+- **Laravel** | **ASP.NET Core** | **Entity Framework**  
+- **PostgreSQL** | **MariaDB**  
+- **Git & GitHub** | **Visual Studio 2022** | **VS Code**
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### 🏫 Sistema Colegio (Abstract Factory)
-Aplicación en Java aplicando:
-- Patrón Abstract Factory
-- Cálculo automático de estudiantes
-- Organización por grados y salones
+### 🏫 Sistema Colegio (Java – Abstract Factory)
+- Implementación del patrón **Abstract Factory**  
+- Cálculo automático de estudiantes  
+- Organización modular por grados y salones  
 
-### 🏪 Sistema Cafetín (Arquitectura en Capas)
-Proyecto en .NET con:
-- Entity Framework
-- Inyección de dependencias
-- Repository Pattern
-- DTOs y Mappers
+### 🏪 Sistema Cafetín (.NET – Arquitectura en Capas)
+- Uso de **Entity Framework**  
+- Inyección de dependencias  
+- Repository Pattern con **DTOs y Mappers**  
 
-### 📚 Sistema de Biblioteca
-Aplicando:
-- Relaciones entre tablas
-- Tablas pivote
-- JOIN y Subconsultas
-- Principios SOLID
+### 📚 Sistema de Biblioteca (SQL – SOLID)
+- Relaciones entre tablas y tablas pivote  
+- Consultas avanzadas con **JOIN** y subconsultas  
+- Aplicación de principios **SOLID**  
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel2004-lsd&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2004-lsd&layout=compact&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniel2004-lsd&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel2004-lsd&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel2004-lsd&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel2004-lsd&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Convertirme en desarrollador Backend profesional, especializado en arquitectura limpia, bases de datos y diseño de software escalable.
+Convertirme en **Desarrollador Backend profesional**, especializado en:
+- Arquitectura limpia y escalable  
+- Diseño y optimización de bases de datos  
+- Desarrollo de software modular y defendible  
 
 ---
 
 ## 📫 Contacto
 
-📧 danielsalazarvargas953@gmail.com  
-📍 Colombia
+📧 **danielsalazarvargas953@gmail.com**  
+📍 **Colombia**
