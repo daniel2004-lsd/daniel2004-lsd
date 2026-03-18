@@ -7,7 +7,7 @@ CODE_ORGANIZATION: code-sena
 -->
 
 
-<h1 align="center">Daniel salazar vargas</h1>
+<h1 align="center">Daniel Salazar Vargas</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juanperezdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
