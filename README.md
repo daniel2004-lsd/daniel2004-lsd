@@ -1,3 +1,24 @@
+<!--
+CONFIG
+FULL_NAME: daniel salazar vargas
+GITHUB_USER: daniel2004-lsd
+EMAIL: danielsalazarvargas953@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
+
+
+<h1 align="center">Juan David Pérez Gómez</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanperezdev&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
+</p>
+
+---
+
+
+## 🚀 Repositorio institucional
+Este repositorio está asociado a la organización **code-sena**.
+
 <h1 align="center">👋 Hola, soy Daniel Salazar</h1>
 
 <p align="center">
