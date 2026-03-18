@@ -1,6 +1,6 @@
 <!--
 CONFIG
-FULL_NAME: daniel salazar vargas
+FULL_NAME: Daniel Valazar Vargas
 GITHUB_USER: daniel2004-lsd
 EMAIL: danielsalazarvargas953@gmail.com
 CODE_ORGANIZATION: code-sena
