@@ -2,7 +2,7 @@
 
 Backend Developer | C# & .NET · Java · Software Architecture
 
-[GitHub](https://github.com/daniel2004-lsd) · [Email](mailto:danielsalazarvargas953@gmail.com)
+[Portfolio](https://daniel2004-lsd.github.io/) · [GitHub](https://github.com/daniel2004-lsd) · [LinkedIn](https://www.linkedin.com/in/daniel-salazar-vargas-823a58306/?locale=%C3%87) · [Email](mailto:danielsalazarvargas953@gmail.com)
 
 Backend Development · Software Architecture · Database Design
 
@@ -22,12 +22,12 @@ Currently developing my skills in the .NET ecosystem, backend systems, database 
 
 | **Area** | **Technologies & Concepts** |
 |---|---|
-| **Backend** | C# · .NET · ASP.NET Core · Java · Laravel |
+| **Backend** | C# · .NET · ASP.NET Core · Java |
 | **Frontend** | JavaScript · React · HTML · CSS |
 | **Databases** | PostgreSQL · MariaDB · SQL |
-| **Architecture** | Clean Architecture · DDD · MVC · Layered Architecture |
+| **Architecture** | Clean Architecture · DDD · MVC · Layered Architecture . Microservices |
 | **Design Principles** | SOLID · Repository Pattern · DTO · Dependency Injection |
-| **DevOps & Tools** | Docker · Git · GitHub · Linux · CI/CD |
+| **DevOps & Tools** | Docker · Git · GitHub · Linux · CI/CD . SDD |
 | **Additional** | REST APIs · Entity Framework Core · Microservices Fundamentals |
 
 ---
